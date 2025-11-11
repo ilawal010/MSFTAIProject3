@@ -19,6 +19,7 @@ variables:
 
   # For pipeline reference
   resource_group: MS_AI_JUNE25
-  aml_workspace: MS_AI_JUNE25
+  aml_workspace: MLS
+
 
 
